@@ -7,7 +7,29 @@ ZMPO2:
 Klasy zaprzyjaünione
 
 ZMPO3:
-Drzewo binarne
+Drzewo binarne, odwrotna notacja polska
 
 ZMPO4:
 Operatory
+
+ZMPO5:
+Szablony
+
+
+
+Laboratory from "Advanced Methods of Object Programming:
+
+ZMPO1:
+Memory allocation, constructors, interface, operators
+
+ZMPO2:
+Friend classes
+
+ZMPO3:
+Binary Tree, Reverse Polish Notation
+
+ZMPO4:
+Operators
+
+ZMPO5:
+Templates
